@@ -1,0 +1,72 @@
+body {
+  background-color: rgb(253, 251, 251);
+  font-size: 28px;
+}
+
+#cabecalho {
+  position: fixed;
+  top: 0;
+  background-color: lightskyblue;
+  padding-right: 100%;
+  padding-left: 10px;
+  font-size: 28px;
+  font-family: Rajdhani, sans-serif;
+  letter-spacing: 3px;
+  line-height: 5px;
+}
+
+#rodape {
+  background-color: lightskyblue;
+  font-size: 20px;
+  font-family: Rajdhani, sans-serif;
+  display: inline-block;
+  padding-right: 80%;
+  letter-spacing: 10px;
+  margin-top: 50px;
+}
+
+#licoes_aprendidas {
+  font-size: 35px;
+  color: dimgray;
+  font-family: Shadows Into Light, sans-serif;
+  letter-spacing: 1px;
+  display: inline-block;
+  margin-top: 1px;
+  padding: 5%;
+}
+
+table tr td {
+  border: 2px solid lightsteelblue;
+}
+
+nav {
+  font-size: 40px;
+  font-family: Rajdhani, sans-serif;
+  letter-spacing: 2px;
+  margin-top: 200px;
+  margin-left: 30%;
+  display: inline-block;
+  border: 10px solid dimgray;
+}
+
+.lado-direito {
+  float: right;
+  padding: 3%;
+  display: inline-block;
+  max-width: 300px;
+  background-color: dimgray;
+  color: white;
+  font-family: Shadows Into Light, sans-serif;
+  font-size: 30px;
+}
+
+.lado-esquerdo {
+  float: left;
+  padding: 3%;
+  display: inline-block;
+  max-width: 300px;
+  background-color: lightskyblue;
+  color: dimgray;
+  font-family: Shadows Into Lightm, sans-serif;
+  font-size: 30px;
+}
